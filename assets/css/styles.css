@@ -11,8 +11,10 @@ body {
 	color:whitesmoke;
 	font-size: 5rem;
 	overflow:hidden;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
-	background: url("../img/flames.gif");
+
+	background: url("../img/write.gif");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
